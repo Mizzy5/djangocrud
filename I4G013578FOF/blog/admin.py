@@ -1,3 +1,4 @@
+from os import link
 from django.contrib import admin
 from .models import Post
 
